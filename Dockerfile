@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------
 # Dockefile to build Docker Image of NGINX WebServer with my Web Applicaiton
 #
-# Copyleft(c) by Denis Astahov
+# Copyleft(c) by Dmytro Ostapenko
 #---------------------------------------------------------------------------
 
 FROM nginx:latest
